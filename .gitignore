@@ -1,0 +1,15 @@
+
+src/main/java/com/edutrack/portal/db/DBConnection.java
+
+# 2. Ignore Compiled Code
+bin/
+*.class
+build/
+
+# 3. Ignore Eclipse-Specific Settings (Crucial for Portability)
+.settings/
+.project
+.classpath
+
+# 4. Ignore Metadata
+.metadata/
